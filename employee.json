@@ -1,0 +1,10 @@
+{
+  "employee": {
+    "first_name": "Joe",
+    "last_name": "Lin",
+    "department": "Engineering",
+    "role": "Trainee",
+    "salary": 600000.5
+  }
+}
+
