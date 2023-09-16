@@ -1,6 +1,6 @@
 # Payroll API - Phoenix Project
 ## Introduction
-Welcome to the Payroll API, a robust backend application built using Elixir and the Phoenix Framework. This project serves as a foundation for managing employee records, providing a RESTful API to interact with employee data efficiently. Whether you're looking to create, retrieve, or delete employee records, this API has you covered.
+Welcome to the Payroll API, a backend application built using Elixir and the Phoenix Framework. This project serves as a foundation for managing employee records, providing a RESTful API to interact with employee data efficiently. Whether you're looking to create, retrieve, or delete employee records, this API has you covered.
 
 ## Project Overview
 Managing employee data is a fundamental aspect of any organization. The Payroll API simplifies this process by offering a straightforward and efficient way to handle employee records. It's ideal for businesses, HR departments, or any application that requires employee data management.
